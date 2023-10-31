@@ -1,4 +1,4 @@
-# TidesV2 - Tidal Modulator Eurorack Module
+# Tides v2018 - Tidal Modulator Eurorack Module
 A clone of the Mutable Instruments Tides version 2018 module.
 
 (TBD module pictures)
