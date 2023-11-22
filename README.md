@@ -1,21 +1,25 @@
 # Tides v2018 - Tidal Modulator Eurorack Module
 A clone of the Mutable Instruments Tides version 2018 module.
 
-(TBD module pictures)
+<img height="500" src="https://github.com/TOILmodular/TidesV2/assets/97026614/44468a18-1b78-4cca-a201-7dcc9d302383">
+<img height="500" src="https://github.com/TOILmodular/TidesV2/assets/97026614/f0312c7c-a877-4a76-baec-60685a4b1ad8">
+
+<img height="500" src="https://github.com/TOILmodular/TidesV2/assets/97026614/5a30841c-e76c-43a9-ab32-78436a3fb8f32">
+<img height="500" src="https://github.com/TOILmodular/TidesV2/assets/97026614/086214c7-4fab-41af-91f2-17fd97cf371d">
 
 ## Module Build and PCBs
 In the folder GerberFiles, I added two different versions for the control board, an "original" and a "Thonk" version.
 Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
 
-(TBD orig PCB picture)
+<img height="500" alt="CtrlPCB_Orig" src="https://github.com/TOILmodular/TidesV2/assets/97026614/3e4c4842-1dd5-4924-8831-dbc00db8353f">
 
 However, since most DIY projects for Eurorack modules out there are using potentiometers from ALPHA and so-called THONKICONN jacks, as they are provided by Thonk in the UK, I also created another control board PCB version, called "Thonk", with footprints for those components.
 
-(TBD Thonk PCB picture)
+<img height="500" alt="CtrlPCB_Thonk" src="https://github.com/TOILmodular/TidesV2/assets/97026614/d2323f98-ba4f-41bc-ab37-39c9e82396f8">
 
 The main board PCB is the same for both versions
 
-(TBD main PCB picture)
+<img height="500" alt="MainPCB" src="https://github.com/TOILmodular/TidesV2/assets/97026614/514bc01d-dc0e-4096-92e6-81390161bc1f">
 
 I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB.
 
@@ -49,7 +53,7 @@ The main PCB contains connection points for both connector types for programming
 
 Besides that, there are two connection points for putting the chip into boot mode, which is needed for loading the bootloader file. Just solder a 1x2 pin with standard 2.54mm distance to connection points labeled "BOOT". For activating the boot mode, place a jumper onto the pins. As soon as the bootloder is uploaded, remove the jumper while keeping the board powered on to put the chip into operation mode, so the main code can be uploaded.
 
-(TBD progamming connectors pictures)
+<img height="200" alt="ProgrammingConnectors" src="https://github.com/TOILmodular/TidesV2/assets/97026614/021d889d-6276-42e7-bf10-dd92ef11dc45">
 
 ## Calibration
 The calibration procedure is the same, as the one for the original module from Mutable Instruments.
