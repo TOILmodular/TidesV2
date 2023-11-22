@@ -9,7 +9,7 @@ A clone of the Mutable Instruments Tides version 2018 module.
 
 ## Module Build and PCBs
 In the folder GerberFiles, I added two different versions for the control board, an "original" and a "Thonk" version.
-Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
+Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at a local electronics shop.
 
 <img height="500" alt="CtrlPCB_Orig" src="https://github.com/TOILmodular/TidesV2/assets/97026614/3e4c4842-1dd5-4924-8831-dbc00db8353f">
 
