@@ -46,7 +46,7 @@ Coordinates origin is the lower left corner of the panel.
 | 31 | 15 | 70 | Output3 Jack |
 | 32 | 15 | 85 | Output4 Jack |
 
-<img height="1000" src="https://github.com/TOILmodular/TidesV2/assets/97026614/67e3cfd2-5fbd-4484-8962-4bf1ca0d0e89">
+<img height="1000" src="https://github.com/TOILmodular/TidesV2/assets/97026614/c56b4e37-4cdc-4eb5-beba-1c4686d6eb5e">
 
 ### HP Standard Design
 For building the panel with a size following the HP standard, you can use the panel Gerber file provided in the folder "GerberFiles".
