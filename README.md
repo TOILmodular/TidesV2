@@ -36,7 +36,7 @@ The module build requires the soldering of SMD components. Besides the STM32F373
 Here is a list of SMD parts in my design.
 - STM32F373CCT6 (microcontroller)
 - DAC8164 (digital-analog0converter, 16-TSSOP package)
-- TLV4172 (quad op amp, 8-SOIC, TL072 also works fine)
+- TLV4172 (quad op amp, 14-SOIC)
 - LM1117-3.3 (voltage regulator, SOT-223 package)
 - LM4040B10 (voltage regulator, SOT-23-3 package)
 - BAT54ST (diode array, SOT-523 package)
